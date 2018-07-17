@@ -1,0 +1,8 @@
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/service/StatementService.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/service/StatementClient.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/service/CardClient.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/model/StatementVO.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/service/CardStatementServiceController.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/CardStatementCompositeApplication.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/model/CardVO.java
+/Users/msastre/Develop/microservices/card-statement-composite/src/main/java/com/spring/netflix/oss/microservices/service/CardService.java

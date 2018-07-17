@@ -1,0 +1,8 @@
+com/spring/netflix/oss/microservices/CardStatementCompositeApplication.class
+com/spring/netflix/oss/microservices/service/CardStatementServiceController.class
+com/spring/netflix/oss/microservices/service/StatementClient.class
+com/spring/netflix/oss/microservices/service/StatementService.class
+com/spring/netflix/oss/microservices/service/CardClient.class
+com/spring/netflix/oss/microservices/service/CardService.class
+com/spring/netflix/oss/microservices/model/CardVO.class
+com/spring/netflix/oss/microservices/model/StatementVO.class
